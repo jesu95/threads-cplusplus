@@ -1,6 +1,6 @@
 # threads-cplusplus
 
-It is proposed software in C / C ++ language that allows parallelizing a task using threads. An operation without practical 
+It is proposed software in C ++ language that allows parallelizing a task using threads. An operation without practical 
 sense is carried out in order to analyze the performance of said software for a different number of threads and processing loads.
 
 The following table summarizes the results obtained:
